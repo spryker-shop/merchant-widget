@@ -12,9 +12,6 @@ use SprykerShop\Yves\MerchantWidget\Dependency\Client\MerchantWidgetToMerchantSt
 use SprykerShop\Yves\MerchantWidget\Reader\MerchantReader;
 use SprykerShop\Yves\MerchantWidget\Reader\MerchantReaderInterface;
 
-/**
- * @method \SprykerShop\Yves\MerchantWidget\MerchantWidgetConfig getConfig()
- */
 class MerchantWidgetFactory extends AbstractFactory
 {
     /**
